@@ -1,8 +1,5 @@
 {
-  "User": [
-    {"id": 1, "name": "truong duc vien", "age": 25},
-    {"id": 2, "name": "truong duc khang", "age": 10},
-  ],
+  "User": {"id": 1, "name": "truong duc vien", "age": 25},
   "Post": {},
   "Comment": {},
   "Person": {},
