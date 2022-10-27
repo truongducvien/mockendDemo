@@ -1,5 +1,8 @@
 {
-  "User": {"id": 1, "name":"truong duc vien"},
+  "User": [
+    {"id": 1, "name":"truong duc vien"},
+    {"id": 2, "name":"truong duc khang"}
+  ],
   "Post": {},
   "Comment": {},
   "Person": {},
