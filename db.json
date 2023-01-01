@@ -1,7 +1,10 @@
 {
   "User": [
     {"id": 1, "name":"truong duc vien"},
-    {"id": 2, "name":"truong duc khang"}
+    {"id": 2, "name":"truong duc k"},
+    {"id": 3, "name":"truong dang"},
+    {"id": 4, "name":"truong duang"},
+    {"id": 5, "name":"trduc khang"}
   ],
   "Post": {},
   "Comment": {},
